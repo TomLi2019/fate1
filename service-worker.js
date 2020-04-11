@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fate1/precache-manifest.a21a0dde50122f1f5bf658df9e9cbd7e.js"
+  "/fate1/precache-manifest.4bb4d1f74f7bc1729105dde201326a37.js"
 );
 
 self.addEventListener('message', (event) => {

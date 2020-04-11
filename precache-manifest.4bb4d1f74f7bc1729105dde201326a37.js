@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad5bd47cda6a125a0f03be23e1eb3ac3",
+    "revision": "925a2376c7197dd172a180cd2885dcef",
     "url": "/fate1/index.html"
   },
   {
-    "revision": "11ab8532201a50bb4843",
+    "revision": "d575e8f1853586a02cdb",
     "url": "/fate1/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fate1/static/js/2.bc195109.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11ab8532201a50bb4843",
-    "url": "/fate1/static/js/main.0a297316.chunk.js"
+    "revision": "d575e8f1853586a02cdb",
+    "url": "/fate1/static/js/main.840c5442.chunk.js"
   },
   {
     "revision": "e1f88cea8c7ec9075399",
